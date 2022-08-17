@@ -1,4 +1,4 @@
-module github.com/google/osv.dev/tools/osv-scanner
+module github.com/oliverchang/osv.dev/tools/osv-scanner
 
 go 1.18
 
